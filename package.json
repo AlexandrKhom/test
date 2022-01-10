@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "typescript": "^4.5.4",
+    "tsc": "^2.0.3"
+  }
+}
